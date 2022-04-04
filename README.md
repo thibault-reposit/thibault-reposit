@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ thibault / Tibo / Bliz
+- 👋 Hi Welcome 
 - 👀 I’m interested in ReactJS
 - 🌱 I’m currently learning ReactJS
-- <-> bliz@live.fr
+- <-> @ thibault / Tibo
 
 <!---
 thibault-reposit/thibault-reposit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
